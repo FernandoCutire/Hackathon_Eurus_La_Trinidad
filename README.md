@@ -1,41 +1,21 @@
+
+
 # Hackathon_Eurus_La_Trinidad
-Este es el repositorio oficial del grupo __La Trinidad__
 
-Nosotros como grupo nos hemos enfocado en el análisis de Datos Abiertos
+# Hackathon_Eurus_La_Trinidad
+Este es el repositorio oficial del grupo __La Trinidad__.Nosotros como grupo nos hemos enfocado en el análisis de Datos Abiertos. Nos hemos actualizado con los softwares más potentes para llevar a cabo esta tarea y aqui exponemos el proyecto
 
-# Project Title
+## Empezando
 
-One Paragraph of project description goes here
+Este código tiene un gran uso de posibiliddes y dentro del siguiente readme le expondremos los requisitos, instalacion, etc
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
+### Prerrequisitos
+Lo que se debe descargar para poder hacer uso del programa
 
 ```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+Anaconda (Para Jupyter Notebook)
+Un IDE de Java
+Software para visualizar tablas ```
 
 ## Running the tests
 
@@ -63,9 +43,9 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Jupyter Notebook](https://jupyter.org/ - El ambiente de python usada
+* [Eclipse](https://www.eclipse.org/ide/) - Para obtener los datos
+* [Tableu](https://www.tableau.com/es-es) - Usado para generar visualizaciones
 
 ## Contributing
 
@@ -77,17 +57,20 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **José Tapia** - *Initial work* - 
+* **Emmanuel Del Cid** - *Initial work* - 
+* **Fernando Cutire** - *Initial work* - [FernandoCutire](https://github.com/FernandoCutire)
+
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-## License
+## Licencia
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## Reconocimientos
 
-* Hat tip to anyone whose code was used
-* Inspiration
+* Un código preparado para servir a la comunidad.
+* Inspiración
 * etc
 
