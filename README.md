@@ -16,7 +16,7 @@ Software para visualizar tablas
 
 ## Built With
 
-* [Jupyter Notebook](https://jupyter.org/) - El ambiente de python usada
+* [Jupyter Notebook](https://jupyter.org/) - El ambiente de python usado
 * [Eclipse](https://www.eclipse.org/ide/) - Para obtener los datos
 * [Tableu](https://www.tableau.com/es-es) - Usado para generar visualizaciones
 
