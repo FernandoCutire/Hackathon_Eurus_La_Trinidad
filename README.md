@@ -14,7 +14,7 @@ Un IDE de Java
 Software para visualizar tablas
 ```
 
-## Built With
+## Construido con
 
 * [Jupyter Notebook](https://jupyter.org/) - El ambiente de python usado
 * [Eclipse](https://www.eclipse.org/ide/) - Para obtener los datos
@@ -22,7 +22,7 @@ Software para visualizar tablas
 
 
 
-## Authors
+## Autores
 
 * **José Tapia** - *Initial work* - 
 * **Emmanuel Del Cid** - *Initial work* - 
