@@ -1,7 +1,3 @@
-
-
-# Hackathon_Eurus_La_Trinidad
-
 # Hackathon_Eurus_La_Trinidad
 Este es el repositorio oficial del grupo __La Trinidad__.Nosotros como grupo nos hemos enfocado en el análisis de Datos Abiertos. Nos hemos actualizado con los softwares más potentes para llevar a cabo esta tarea y aqui exponemos el proyecto
 
